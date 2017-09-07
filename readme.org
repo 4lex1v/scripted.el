@@ -1,0 +1,10 @@
+
+* Scripted.el
+
+#+BEGIN_SRC sh
+#!/usr/bin/env zsh
+":"; exec emacs --quick --script "$0" "$@" # -*- mode: emacs-lisp; lexical-binding: t; -*-
+
+(load "~/.emacs.d/scripted/scripted.el")
+#+END_SRC
+

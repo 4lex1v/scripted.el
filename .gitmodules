@@ -1,0 +1,9 @@
+[submodule "libs/dash.el"]
+	path = libs/dash.el
+	url = git@github.com:magnars/dash.el.git
+[submodule "libs/s.el"]
+	path = libs/s.el
+	url = git@github.com:magnars/s.el.git
+[submodule "libs/f.el"]
+	path = libs/f.el
+	url = git@github.com:rejeep/f.el.git
